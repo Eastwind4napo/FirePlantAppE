@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "623424394585",
+    "firebase_url": "https://fireplantapp.firebaseio.com",
+    "project_id": "fireplantapp",
+    "storage_bucket": "fireplantapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623424394585:android:8c3b9afad23297c3",
+        "android_client_info": {
+          "package_name": "com.example.kaumadi.fireplantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623424394585-3hap77tjdn1pomq4k6ju3m555dsjqf6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaumadi.fireplantapp",
+            "certificate_hash": "691c5db32eeed7d7648d936e1feade44312eb525"
+          }
+        },
+        {
+          "client_id": "623424394585-g5ql25mpj9le0hmdim3u40oparqc84eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgtU9B-Ni_rNOSS5YGUY2JuQaZWWN4mAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623424394585-g5ql25mpj9le0hmdim3u40oparqc84eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

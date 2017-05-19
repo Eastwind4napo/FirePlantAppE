@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">FirePlantApp</string>
+    <string-array name="user_type">
+        <item>Researcher</item>
+        <item>Supperviser</item>
+        <item>Student</item>
+    </string-array>
+    <string name="if_you_haven_t_accountregister_here">if_you_haven_t_accountregister_here</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="Email">email</string>
+    <string name="logout">logout</string>
+    <string name="_20">20</string>
+    <string name="google">Google</string>
+    <string name="kaumadie">Kaumadie</string>
+    <string name="kaumadie_chamalka">kaumadie chamalka</string>
+    <string name="add" />
+    <string name="back">back</string>
+    <string name="about">About</string>
+    <string name="chat">Chat</string>
+    <string name="log">Log</string>
+    <string name="my_garden">My Garden</string>
+    <string name="plant_db">Plant DB</string>
+    <string name="search">search...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--devin-->
+    <string name="register_act">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="register">Create Account</string>
+    <string name="loading">Loading</string>
+    <string name="home">Home</string>
+    <string name="my_greenhouse">My Greenhouse</string>
+    <string name="analytics">Analytics</string>
+    <string name="title_activity_tab1">tab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="plant_log">Plant Log</string>
+    <string name="next">Next</string>
+    <string name="duration">Duration</string>
+    <string name="greenhouse_location">GreenHouse Location</string>
+    <string name="greenhouse_name">GreenHouse Name</string>
+    <string name="title_activity_greenhouse">GreenHouse</string>
+    <string name="signout">SignOut</string>
+    <string name="delete">Delete</string>
+    <string name="temp_high">Temperatur is HIgh</string>
+    <string name="temp_low">Temperatur is Low</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/ic_add"
+        android:title="add"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_back"
+        android:icon="@drawable/ic_back"
+        android:title="back"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_histry"
+        android:icon="@drawable/ic_graph"
+        android:title="back"
+        app:showAsAction="always"
+        />
+
+
+</menu>

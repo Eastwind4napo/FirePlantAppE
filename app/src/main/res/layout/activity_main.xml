@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:design="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kaumadi.fireplantapp.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/appBarLayout">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/themeapp"
+             />
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50sp"
+        android:layout_marginBottom="50sp"
+        android:id="@+id/ifragment">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="50dp"
+            android:paddingTop="50dp">
+
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="300dp"
+                android:layout_height="400dp"
+                android:src="@drawable/img5" />
+        </LinearLayout>
+
+
+
+    </FrameLayout>
+
+
+
+        <android.support.design.widget.BottomNavigationView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:background="#CCFF90"
+            design:itemIconTint="#ffffff"
+            design:itemTextColor="#ffffff"
+            android:id="@+id/NavBot"
+            android:layout_gravity="bottom"
+            design:menu="@menu/menu_nav"/>
+
+
+</android.support.design.widget.CoordinatorLayout>

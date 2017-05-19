@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#689F38</color>
+    <color name="colorAccent">#B2FF59</color>
+    <color name="fontgreen">#b2e04a</color>
+    <color name="themeapp">#84b21b</color>
+</resources>

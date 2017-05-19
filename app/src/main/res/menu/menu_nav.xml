@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/myGarden"
+        android:icon="@drawable/ic_mygarden"
+        android:title="@string/my_garden"
+        />
+    <item
+        android:id="@+id/plantDb"
+        android:icon="@drawable/ic_plantdb"
+        android:title="@string/plant_db"
+        />
+    <item
+        android:id="@+id/log"
+        android:icon="@drawable/ic_log"
+        android:title="@string/log"
+        />
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_chat"
+        android:title="@string/chat"
+        />
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_help"
+        android:title="@string/about"
+        />
+
+</menu>
